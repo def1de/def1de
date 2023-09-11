@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Linux OS 
 - 👯 I’m looking to collaborate on Any Python Projects 
 - ⚡ Fun fact: I use arch btw
-
+---
 ### My Skills
 - 🐍 Python
 - 📯 Flask
