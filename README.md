@@ -3,7 +3,7 @@
 😎 I'm a digital nomad and Python programmer. 💡 Enjoy coding stuff I find interesting.
 
 - 🔭 I’m currently working on Flask
-- 🌱 I’m currently learning Linux OS 
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Any Python Projects 
 - ⚡ Fun fact: I use arch btw
 ---
@@ -13,5 +13,7 @@
 - 🕸️ HTML, CSS, JS
 - ⚡ Bootstrap
 - ♾️ Unity (C#)
+- GoDot Engine (GDScript)
+- C++
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=def1de)](https://github.com/anuraghazra/github-readme-stats)
