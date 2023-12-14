@@ -1,10 +1,10 @@
 ## Hi there 👋, my name is Illia
-### I am a python developer from Ukraine
-😎 I'm a digital nomad and Python programmer. 💡 Enjoy coding stuff I find interesting.
+### I am a computing entusiast from Ukraine
+😎 I'm a digital nomad and starting programmer. 💡 Enjoy coding stuff I find interesting.
 
-- 🔭 I’m currently working on Flask
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on Any Python Projects 
+- 🔭 I’m currently working on Game Development
+- 🌱 I’m currently learning C++/Cybersecurity
+- 👯 I’m looking to collaborate on Game Development
 - ⚡ Fun fact: I use arch btw
 ---
 ### My Skills
@@ -13,7 +13,7 @@
 - 🕸️ HTML, CSS, JS
 - ⚡ Bootstrap
 - ♾️ Unity (C#)
-- GoDot Engine (GDScript)
-- C++
+- 🤖 GoDot Engine (GDScript)
+- 🖥️ C++
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=def1de)](https://github.com/anuraghazra/github-readme-stats)
