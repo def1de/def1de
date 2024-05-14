@@ -16,4 +16,4 @@
 - 🤖 GoDot Engine (GDScript)
 - 🖥️ C++
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=def1de)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=def1de&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
