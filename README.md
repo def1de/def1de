@@ -9,10 +9,14 @@
 ---
 ### My Skills
 - 🐍 Python
-- 📯 Flask
+  - Flask
+  - requests
+  - Slenium
 - 🕸️ HTML, CSS, JS
-- ⚡ Bootstrap
+  - ⚡ Bootstrap
 - ♾️ Unity (C#)
-- 🤖 GoDot Engine (GDScript)
+- 🦀 Rust
+  - Software Development
 - 🖥️ C++
+  - Embeded Development
 ---
