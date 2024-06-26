@@ -1,9 +1,9 @@
 ## Hi there 👋, my name is Illia
 ### I am a computing entusiast from Ukraine
-😎 I'm a digital nomad and starting programmer. 💡 Enjoy coding stuff I find interesting.
+😎 I'm a starting programmer. 💡 Enjoy coding stuff I find interesting.
 
-- 🔭 I’m currently working on Software development
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on Embeded Systems
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Embedded development
 - ⚡ Fun fact: I use arch btw
 ---
@@ -17,6 +17,6 @@
 - ♾️ Unity (C#)
 - 🦀 Rust
   - Software Development
-- 🖥️ C++
+- 🖥️ C/C++
   - Embeded Development
 ---
