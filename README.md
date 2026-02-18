@@ -1,42 +1,30 @@
-# sv
+## Hi there 👋, my name is Illia
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+### I am a computing entusiast from Ukraine
 
-## Creating a project
+😎 I'm a starting programmer. 💡 Enjoy coding stuff I find interesting.
 
-If you're seeing this, you've probably already done this step. Congrats!
+- 🔭 I’m currently working on Embeded Systems
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on Embedded development
+- ⚡ Fun fact: I use arch btw
 
-```sh
-# create a new project
-npx sv create my-app
-```
+---
 
-To recreate this project with the same configuration:
+### My Skills
 
-```sh
-# recreate this project
-npx sv create --template minimal --types ts --add tailwindcss="plugins:none" --install npm ./def1de
-```
+- 🐍 Python
+  - Flask
+  - requests
+  - Slenium
+- 🕸️ HTML, CSS, JS
+  - ⚡ Bootstrap
+- ♾️ Unity (C#)
+- 🦀 Rust
+  - Software Development
+- 🖥️ C/C++
+  - Embeded Development
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+> > > > > > > origin/main
