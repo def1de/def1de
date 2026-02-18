@@ -30,6 +30,7 @@
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^7.2.0",
+		"marked": "^17.0.3",
 		"motion-sv": "^0.1.10"
 	}
 }
