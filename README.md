@@ -1,30 +1,56 @@
-## Hi there 👋, my name is Illia
+## Hi 👋 I'm Illia Katerynych
 
-### I am a computing entusiast from Ukraine
+### MEng Computer Science Student at University of Birmingham
 
-😎 I'm a starting programmer. 💡 Enjoy coding stuff I find interesting.
+Software Developer | Systems & Performance Enthusiast
 
-- 🔭 I’m currently working on Embeded Systems
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on Embedded development
-- ⚡ Fun fact: I use arch btw
-
----
-
-### My Skills
-
-- 🐍 Python
-  - Flask
-  - requests
-  - Slenium
-- 🕸️ HTML, CSS, JS
-  - ⚡ Bootstrap
-- ♾️ Unity (C#)
-- 🦀 Rust
-  - Software Development
-- 🖥️ C/C++
-  - Embeded Development
+- 🎓 MEng Computer Science (2025–2029)
+- 💼 Software Developer @ ONSTAFF LTD
+- 🛠️ Backend-focused, performance-driven
+- 🐧 Linux user (Arch)
 
 ---
 
-> > > > > > > origin/main
+## 🚀 What I’m Working On
+
+- Backend systems with **Rust or Python (Flask)**
+- Performance-oriented **C/C++ or Rust** development
+- Open-source tooling for Linux environments
+- Low-level and systems-focused projects
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Programming
+
+- **Python** (Proficient)
+- **Rust** (Proficient)
+- **C / C++** (Familiar)
+- **Java** (Learning)
+
+### 🌐 Web & Backend
+
+- Flask
+- REST APIs
+- Svelte, HTML, CSS, JS/TS
+- Automation pipelines
+- Docker deployment
+
+### 🛠️ Tools & Workflow
+
+- Linux
+- Docker
+- Git / GitHub
+- Oracle Cloud / AWS
+
+---
+
+## 📌 Focus Areas
+
+- Systems programming
+- Performance optimisation
+- Backend architecture
+- Embedded & low-level software
+
+---

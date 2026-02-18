@@ -34,7 +34,7 @@
 			icon: SquareSigma,
 			description: 'Daily maths solving game',
 			tags: ['python', 'flask', 'svelte'],
-			github: 'https://github.com/def1de/mathsblitz',
+			github: '',
 			demo: ''
 		},
 		{
@@ -50,7 +50,7 @@
 			icon: Rocket,
 			description: 'A rogulike game',
 			tags: ['c++', 'sfml', 'custom engine'],
-			github: 'https://github.com/def1de/space-adrift',
+			github: '',
 			demo: ''
 		}
 	];
@@ -120,10 +120,12 @@
 
 		<!-- Buttons -->
 		<div class="flex flex-col sm:flex-row flex-wrap gap-3 mt-auto">
-			<Button href={projectdata.github}>
-				<Github class="w-4 h-4" />
-				GitHub
-			</Button>
+			{#if projectdata.github}
+				<Button href={projectdata.github}>
+					<Github class="w-4 h-4" />
+					GitHub
+				</Button>
+			{/if}
 
 			{#if projectdata.demo}
 				<Button href={projectdata.demo} variant="secondary">
