@@ -20,32 +20,6 @@ Software Developer | Systems & Performance Enthusiast
 
 ---
 
-## 🧠 Technical Skills
-
-### 💻 Programming
-
-- **Python** (Proficient)
-- **Rust** (Proficient)
-- **C / C++** (Familiar)
-- **Java** (Learning)
-
-### 🌐 Web & Backend
-
-- Flask
-- REST APIs
-- Svelte, HTML, CSS, JS/TS
-- Automation pipelines
-- Docker deployment
-
-### 🛠️ Tools & Workflow
-
-- Linux
-- Docker
-- Git / GitHub
-- Oracle Cloud / AWS
-
----
-
 ## 📌 Focus Areas
 
 - Systems programming
