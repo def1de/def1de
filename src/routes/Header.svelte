@@ -17,11 +17,15 @@
 		<!-- svelte-ignore a11y_img_redundant_alt -->
 		<div class="z-10 py-6 flex flex-col md:flex-row">
 			<div class="w-full flex flex-col justify-center items-center mb-5">
-				<img src={pfp} alt="profile picture" class="rounded-full w-40 object-cover mt-16 mb-5" />
+				<img
+					src={pfp}
+					alt="profile picture"
+					class="rounded-full w-40 object-cover mt-16 mb-5"
+				/>
 				<HyperText class="text-xl" duration={1000} text="Illia Katerynych"></HyperText>
 			</div>
 			<div class="w-full flex flex-col justify-center items-center mb-5 px-8">
-				<Button href="https://github.com/def1de">
+				<Button href="https://github.com/iktrnch">
 					<Github class="w-5 h-5 mr-2" />
 					View on GitHub
 				</Button>
